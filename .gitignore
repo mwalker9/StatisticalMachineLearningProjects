@@ -1,0 +1,15 @@
+*.txt
+*.dat
+*.pptx
+*.zip
+*.docx
+*.pyc
+*.csv
+*.ipynb
+*.pickle
+*.mat
+*.pdf
+*.png
+*.data
+SemesterProject/env
+SemesterProject/nolearn-master
